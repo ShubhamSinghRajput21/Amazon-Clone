@@ -1,3 +1,7 @@
+Watch the live app : https://clone-6b047.web.app/
+An Amazon-Clone with full payment Functionality through Stripe. Sign in, Add/Remove products From basket. Go to Checkout page and use these test card details to place an order :4242 4242 4242 4242 04/24 242 42424. Finally you can check the orders Summary. Note : It's Just a Clone to show case skill in Reactjs . It's not for production purpose.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
